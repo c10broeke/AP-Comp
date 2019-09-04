@@ -2,6 +2,9 @@
 }
 body {
   margin: 0;
+  background-image: url(mountains_landscape_311856.jpg);
+  font-family: courier new;
+ 
 }
 /* Style the header */
 .Header {
