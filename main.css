@@ -3,8 +3,8 @@
 body {
   margin: 0;
   background-image: url(mountains_landscape_311856.jpg);
-  background-repeat: no-repeat;
-  font-family: courier new;
+  background-repeat: repeat;
+  font-family: arial;
  
 }
 /* Style the header */
