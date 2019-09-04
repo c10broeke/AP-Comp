@@ -3,7 +3,7 @@
 }
 body {
   margin: 0;
-  background-image: url(http://c10broeke.github.io/mountains_landscape_311856.jpg);
+  background-image: url("mountains_landscape_311856.jpg");
   background-repeat: no-repeat;
   font-family: arial;
  
