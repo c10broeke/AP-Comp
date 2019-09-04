@@ -3,6 +3,7 @@
 body {
   margin: 0;
   background-image: url(mountains_landscape_311856.jpg);
+  background-repeat: no-repeat;
   font-family: courier new;
  
 }
@@ -15,7 +16,7 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #;
 }
 /* Style the topnav links */
 .topnav a {
